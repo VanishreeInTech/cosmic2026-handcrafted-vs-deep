@@ -1,0 +1,5 @@
+method,n_fake_videos,HOG_AUC
+Deepfakes,140,0.7835
+Face2Face,140,0.7610
+FaceSwap,140,0.7319
+NeuralTextures,140,0.7288

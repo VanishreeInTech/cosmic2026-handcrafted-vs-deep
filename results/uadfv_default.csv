@@ -1,0 +1,13 @@
+dataset,descriptor,classifier,P,R,F1,Acc,AUC,mode
+uadfv,hog,SVM,0.6947,0.6986,0.6886,0.7089,0.7202,5foldCV
+uadfv,hog,RF,0.6760,0.6795,0.6524,0.6619,0.7969,5foldCV
+uadfv,hog,XGBoost,0.7830,0.7723,0.7740,0.7870,0.9006,5foldCV
+uadfv,sift,SVM,0.6431,0.6545,0.6252,0.6378,0.6279,5foldCV
+uadfv,sift,RF,0.4320,0.4325,0.4129,0.4208,0.3578,5foldCV
+uadfv,sift,XGBoost,0.4507,0.4561,0.4406,0.4587,0.4225,5foldCV
+uadfv,orb,SVM,0.6522,0.6645,0.6369,0.6454,0.7131,5foldCV
+uadfv,orb,RF,0.6780,0.6898,0.6656,0.6829,0.7640,5foldCV
+uadfv,orb,XGBoost,0.7241,0.7371,0.7198,0.7381,0.7924,5foldCV
+uadfv,lbp,SVM,0.7880,0.7856,0.7622,0.7753,0.8344,5foldCV
+uadfv,lbp,RF,0.4606,0.4648,0.4168,0.4303,0.5145,5foldCV
+uadfv,lbp,XGBoost,0.5109,0.5128,0.4760,0.4839,0.5905,5foldCV

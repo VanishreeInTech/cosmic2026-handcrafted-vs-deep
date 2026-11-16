@@ -1,0 +1,2 @@
+dataset,model,P,R,F1,Acc,AUC,mode
+ffpp,EfficientNet-B0,0.9467,0.9723,0.9588,0.9729,0.9928,split

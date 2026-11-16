@@ -1,0 +1,6 @@
+method,params_or_dim,size_MB,GFLOPs,time_per_frame_ms,time_per_video_ms,hardware
+EfficientNet-B0,4010110,16.0,0.385,1.71,54.66,GPU (RTX 4070)
+HOG (descriptor),34596,-,-,8.54,273.14,CPU
+SIFT (descriptor),128,-,-,5.60,179.22,CPU
+ORB (descriptor),16000,-,-,0.83,26.65,CPU
+LBP (descriptor),14,-,-,6.42,205.60,CPU

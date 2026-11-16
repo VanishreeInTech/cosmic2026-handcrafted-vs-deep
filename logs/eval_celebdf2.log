@@ -1,0 +1,23 @@
+nohup: ignoring input
+
+=== celebdf2 / hog (split) X=(208928, 34596) ===
+  SVM      F1=0.733 AUC=0.918 Acc=0.799 P=0.861 R=0.713
+  RF       F1=0.396 AUC=0.786 Acc=0.656 P=0.328 R=0.500
+  XGBoost  F1=0.454 AUC=0.870 Acc=0.676 P=0.835 R=0.528
+
+=== celebdf2 / sift (split) X=(208928, 128) ===
+  SVM      F1=0.396 AUC=0.741 Acc=0.656 P=0.328 R=0.500
+  RF       F1=0.396 AUC=0.741 Acc=0.656 P=0.328 R=0.500
+  XGBoost  F1=0.408 AUC=0.755 Acc=0.660 P=0.829 R=0.506
+
+=== celebdf2 / orb (split) X=(208928, 16000) ===
+  SVM      F1=0.478 AUC=0.588 Acc=0.680 P=0.754 R=0.538
+  RF       F1=0.396 AUC=0.732 Acc=0.656 P=0.328 R=0.500
+  XGBoost  F1=0.436 AUC=0.768 Acc=0.668 P=0.770 R=0.518
+
+=== celebdf2 / lbp (split) X=(208928, 14) ===
+  SVM      F1=0.396 AUC=0.539 Acc=0.656 P=0.328 R=0.500
+  RF       F1=0.396 AUC=0.609 Acc=0.656 P=0.328 R=0.500
+  XGBoost  F1=0.402 AUC=0.620 Acc=0.656 P=0.578 R=0.501
+
+[done] results -> ../results/celebdf2_results.csv

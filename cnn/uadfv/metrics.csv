@@ -1,0 +1,2 @@
+dataset,model,P,R,F1,Acc,AUC,mode
+uadfv,EfficientNet-B0,0.8641,0.8808,0.8636,0.8720,0.9635,5foldCV

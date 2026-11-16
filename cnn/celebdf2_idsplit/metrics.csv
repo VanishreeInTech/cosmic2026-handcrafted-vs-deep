@@ -1,0 +1,2 @@
+dataset,model,P,R,F1,Acc,AUC,mode
+celebdf2_idsplit,EfficientNet-B0,0.9739,0.9932,0.9833,0.9931,0.9998,split

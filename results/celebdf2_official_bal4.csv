@@ -1,0 +1,2 @@
+dataset,descriptor,classifier,P,R,F1,Acc,AUC,mode,training
+celebdf2,hog,SVM,0.8356,0.6822,0.6959,0.7761,0.8941,split,balanced

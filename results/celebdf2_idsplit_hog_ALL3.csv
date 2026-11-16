@@ -1,0 +1,4 @@
+dataset,descriptor,classifier,P,R,F1,Acc,AUC,mode,training
+celebdf2_idsplit,hog,SVM,0.7177,0.7303,0.7237,0.8843,0.8579,idsplit,balanced
+celebdf2_idsplit,hog,RF,0.4426,0.5000,0.4695,0.8851,0.7374,idsplit,balanced
+celebdf2_idsplit,hog,XGBoost,0.7640,0.5682,0.5905,0.8921,0.8377,idsplit,balanced
